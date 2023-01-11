@@ -1,0 +1,5 @@
+/node_modules
+
+# .gitignore tells the program which files to not push up to github when doing a push to your repository 
+
+.env
